@@ -26,7 +26,7 @@ SECRET_KEY = 'h8_7npvn1ymmvkup4j-)l1)g@hn2s8h(@lg_ebvc2=chg@i0h-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['stark-shelf-23132.herokuapp.com']
+ALLOWED_HOSTS = ['immense-wildwood-12254.herokuapp.com']
 
 
 LOGIN_URL = 'login'
